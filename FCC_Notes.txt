@@ -9,4 +9,6 @@ Create a text field - input
 https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/create-a-text-field
 Form Element
 - https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/create-a-form-element
-
+Radio Button 
+- https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/create-a-set-of-radio-buttons/
+- with common name and  parameter this was intresting to learn.
