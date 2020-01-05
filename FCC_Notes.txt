@@ -45,7 +45,11 @@ CSS
 -https://www.freecodecamp.org/learn/responsive-web-design/basic-css/use-attribute-selectors-to-style-elements
 -https://www.freecodecamp.org/learn/responsive-web-design/basic-css/understand-absolute-versus-relative-units
 - https://www.freecodecamp.org/learn/responsive-web-design/basic-css/override-all-other-styles-by-using-important
-- 
+- https://www.freecodecamp.org/learn/responsive-web-design/basic-css/use-rgb-to-mix-colors
+- https://www.freecodecamp.org/learn/responsive-web-design/basic-css/use-css-variables-to-change-several-elements-at-once
+- https://www.freecodecamp.org/learn/responsive-web-design/basic-css/attach-a-fallback-value-to-a-css-variable
+- https://www.freecodecamp.org/learn/responsive-web-design/basic-css/use-a-media-query-to-change-a-variable
+
 
 
 Project Idea
