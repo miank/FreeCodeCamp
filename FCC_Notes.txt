@@ -53,8 +53,10 @@ CSS
 Applied Visual Design
 - https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/create-visual-balance-using-the-text-align-property
 - https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/use-the-strong-tag-to-make-text-bold
+- https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/add-a-box-shadow-to-a-card-like-element
+Important
+- CardContent - https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/add-a-box-shadow-to-a-card-like-element
 - 
-
 
 Project Idea
 - https://join.teamtreehouse.com/front-end-web-development-techdegree/
