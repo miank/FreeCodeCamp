@@ -1,4 +1,0 @@
-// Only change code below this line
-var myName = "Hello";
-var myStr = "My name is " + myName + " and I am well!";
-
