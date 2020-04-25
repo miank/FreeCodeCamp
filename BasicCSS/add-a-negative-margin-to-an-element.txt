@@ -19,22 +19,17 @@
   .red-box {
     background-color: crimson;
     color: #fff;
-    margin-top: 40px;
-    margin-right: 20px;
-    margin-bottom: 20px;
-    margin-left: 40px;
+    padding: 20px;
+    margin: -15px;
   }
 
   .blue-box {
     background-color: blue;
     color: #fff;
-    margin-top: 40px;
-    margin-right: 20px;
-    margin-bottom: 20px;
-    margin-left: 40px;
+    padding: 20px;
+    margin: -15px;
   }
 </style>
-<h5 class="injected-text">margin</h5>
 
 <div class="box yellow-box">
   <h5 class="box red-box">padding</h5>
