@@ -24,8 +24,8 @@
 
   .blue-box {
     background-color: blue;
-    padding: 40px 20px 20px 40px;
     color: #fff;
+    padding: 40px 20px 20px 40px;
   }
 </style>
 <h5 class="injected-text">margin</h5>
