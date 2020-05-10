@@ -1,5 +1,5 @@
 body{
-    background-color: darkgray;    
+    background-color:#eee ;    
     margin-top: 50px;    
     margin-left: 200px;
     margin-right: 200px;
@@ -11,6 +11,7 @@ h1{
 }
 h2{
     text-align: center;
+    padding:5px;
 }
 p{
     text-align:justify;
@@ -19,14 +20,32 @@ p{
 #main{
     background-color: white;
     border-radius: 25px;    
+    padding-left: 150px;
+    padding-right: 150px;
+    margin-left: 100px;
+    margin-right: 100px;
+    color: black;
+    font-family: monospace;
 }
 #image{
-    max-width: auto;
+    max-width: 100%;
     display: block;
     margin: 0 auto;
+    height: auto;
 }
 #quotes{
     font-size: 20px;
+    font-family: monospace;
+}
+li{
+    padding : 10px;
+}
+#img-caption{
+    font-size: 20px;
+    text-align: center;
+    font-family: monospace;
+}
+#headline{
+    font-size: 25px;
     font-style: italic;
-    
 }
