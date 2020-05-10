@@ -1,0 +1,32 @@
+body{
+    background-color: darkgray;    
+    margin-top: 50px;    
+    margin-left: 200px;
+    margin-right: 200px;
+    border-radius: 25px;
+}
+h1{
+    text-align:center;
+    font-size: 50px;
+}
+h2{
+    text-align: center;
+}
+p{
+    text-align:justify;
+    font-size:20px;
+}
+#main{
+    background-color: white;
+    border-radius: 25px;    
+}
+#image{
+    max-width: auto;
+    display: block;
+    margin: 0 auto;
+}
+#quotes{
+    font-size: 20px;
+    font-style: italic;
+    
+}
